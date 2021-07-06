@@ -39,6 +39,7 @@ a.Button {
     background-image: url(images/7.png);
     margin-top: 78px;
     margin-bottom: 52px;
+    background-repeat: no-repeat;
     
 
 }
