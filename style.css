@@ -39,8 +39,8 @@ a.Button {
     background-image: url(images/7.png);
     margin-top: 78px;
     margin-bottom: 52px;
-    background-repeat: no-repeat;
-    margin-left: 20px;
+    background-size: cover;
+    
     
 
 }
@@ -48,6 +48,9 @@ img {
     width: 75%;
     margin-left: 120px;
     padding-left: 16px;
+}
+img.pro-img {
+    padding-top: 84px;
 }
 .width-3 {
     margin-top: 135px;
