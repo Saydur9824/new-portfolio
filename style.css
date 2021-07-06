@@ -3,7 +3,7 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 span{
-    color: blueviolet;
+    color: #b88fd3;
 }
 .flex{
     display: flex;
@@ -91,10 +91,6 @@ p{
 .paragrapg{
     text-align: justify;
 }
-
-
-
-
 
 
 
