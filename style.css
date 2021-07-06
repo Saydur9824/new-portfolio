@@ -27,7 +27,7 @@ h1{
 }
 a.Button {
     text-decoration: none;
-    background: hsl(0, 63%, 13%);
+    background: rgb(189, 27, 27);
     padding: 9px;
     border-radius: 23px;
     color: white;
@@ -100,11 +100,6 @@ p{
 
 
 
-
-
-
-
-
 span{
     color: cadetblue;
 }
@@ -124,4 +119,5 @@ small {
     
     background-color: black;
     padding: 2px;
+    margin-top: 10px;
 }
