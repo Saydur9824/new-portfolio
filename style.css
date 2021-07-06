@@ -32,6 +32,7 @@ a.Button {
     border-radius: 23px;
     color: white;
     font-size: 14px;
+    display: inline-block;
 }
 
 .banner{
@@ -53,7 +54,7 @@ img.pro-img {
     padding-top: 84px;
 }
 .width-3 {
-    margin-top: 135px;
+    margin-top: 200px;
     margin-left: 136px;
     padding-left: 68px;
 }
@@ -99,7 +100,7 @@ p{
 
 }
 .fa{
-    font-size: 34px;
+    font-size: 36px;
 }
 
 
